@@ -28,7 +28,8 @@ pandas
 seaborn
 scikit-learn
 NumPy
+
+
 Conclusion:
 This project successfully illustrates how multiple linear regression can be used to predict sales based on different advertising channels, showcasing essential steps in data analysis and model evaluation.
 
-Links:
